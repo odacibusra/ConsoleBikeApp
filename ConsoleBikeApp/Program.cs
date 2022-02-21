@@ -64,19 +64,24 @@ namespace ConsoleBikeApp
             Console.WriteLine("**The cities we currently operate** \n 1-Amsterdam, The Netherlands \n 2-Berlin, Germany \n 3-Copenhagen, Denmark \n 4-Brussels, Belgium \n");
             Console.WriteLine("**The cities we want to expand in the next year** \n 5-Milan, Italy \n 6-London, UK \n 7-Paris, France \n \n");
             Console.WriteLine("Enter the city number which you want to see the stolen bike count");
-            try
+
+            while (true)
             {
-                var cityId = Convert.ToInt32(Console.ReadLine());
-                CallBikeIndexApi(cityId).Wait();
-            }
-            catch (Exception)
-            {
-                Console.WriteLine("Only numbers allowed!!");
-            }
-            finally
-            {
-                Console.WriteLine("Press enter to close...");
-                Console.ReadLine();
+                try
+                {
+                    var cityId = Convert.ToInt32(Console.ReadLine());
+                    CallBikeIndexApi(cityId).Wait();
+                    Console.WriteLine(@"Press enter ""C"" to continue or any key to exit.");
+                    var input = Console.ReadLine().ToUpper();
+                    if (input != "C")
+                    {
+                        break;
+                    }
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("Only numbers allowed!!");
+                }
             }
         }
     }
