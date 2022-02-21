@@ -73,6 +73,11 @@ namespace ConsoleBikeApp
             {
                 Console.WriteLine("Only numbers allowed!!");
             }
+            finally
+            {
+                Console.WriteLine("Press enter to close...");
+                Console.ReadLine();
+            }
         }
     }
 }
