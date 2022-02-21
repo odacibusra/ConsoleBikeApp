@@ -68,9 +68,9 @@ namespace ConsoleBikeApp
             {
                 try
                 {
-                    Console.WriteLine("Enter the city number which you want to see the stolen bike count");
+                    Console.WriteLine("Enter the city number which you want to see the stolen bike count:");
                     var cityId = Convert.ToInt32(Console.ReadLine());
-                    Console.WriteLine("Enter a distance to calculate get stolen bike count");
+                    Console.WriteLine("Enter a distance to calculate stolen bike count:");
                     var distance = Convert.ToInt32(Console.ReadLine());
                     CallBikeIndexApi(cityId, distance).Wait();
                     Console.WriteLine(@"Press enter ""C"" to continue or any key to exit.");
