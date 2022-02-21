@@ -1,0 +1,13 @@
+C:\Users\TCSODACI\source\repos\ConsoleBikeApp\ConsoleBikeApp\bin\Debug\netcoreapp3.1\ConsoleBikeApp.exe
+C:\Users\TCSODACI\source\repos\ConsoleBikeApp\ConsoleBikeApp\obj\Debug\netcoreapp3.1\ConsoleBikeApp.csprojAssemblyReference.cache
+C:\Users\TCSODACI\source\repos\ConsoleBikeApp\ConsoleBikeApp\obj\Debug\netcoreapp3.1\ConsoleBikeApp.AssemblyInfoInputs.cache
+C:\Users\TCSODACI\source\repos\ConsoleBikeApp\ConsoleBikeApp\obj\Debug\netcoreapp3.1\ConsoleBikeApp.AssemblyInfo.cs
+C:\Users\TCSODACI\source\repos\ConsoleBikeApp\ConsoleBikeApp\bin\Debug\netcoreapp3.1\ConsoleBikeApp.deps.json
+C:\Users\TCSODACI\source\repos\ConsoleBikeApp\ConsoleBikeApp\bin\Debug\netcoreapp3.1\ConsoleBikeApp.runtimeconfig.json
+C:\Users\TCSODACI\source\repos\ConsoleBikeApp\ConsoleBikeApp\bin\Debug\netcoreapp3.1\ConsoleBikeApp.runtimeconfig.dev.json
+C:\Users\TCSODACI\source\repos\ConsoleBikeApp\ConsoleBikeApp\bin\Debug\netcoreapp3.1\ConsoleBikeApp.dll
+C:\Users\TCSODACI\source\repos\ConsoleBikeApp\ConsoleBikeApp\bin\Debug\netcoreapp3.1\ConsoleBikeApp.pdb
+C:\Users\TCSODACI\source\repos\ConsoleBikeApp\ConsoleBikeApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\TCSODACI\source\repos\ConsoleBikeApp\ConsoleBikeApp\obj\Debug\netcoreapp3.1\ConsoleBikeApp.csproj.CopyComplete
+C:\Users\TCSODACI\source\repos\ConsoleBikeApp\ConsoleBikeApp\obj\Debug\netcoreapp3.1\ConsoleBikeApp.dll
+C:\Users\TCSODACI\source\repos\ConsoleBikeApp\ConsoleBikeApp\obj\Debug\netcoreapp3.1\ConsoleBikeApp.pdb
